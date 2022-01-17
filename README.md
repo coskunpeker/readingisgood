@@ -30,8 +30,8 @@ Statistic.
 #### Order
 
 * This module is responsible to creating and querying orders.
-* In order to prevent the **race condition** on book stock, **Pessimistic Lock Mechanism** is used. The preference of **
-  Pessimistic Lock Mechanism** over **Optimistic Lock Mechanism**
+* In order to prevent the **race condition** on book stock, **Pessimistic Lock Mechanism** is used. The preference of
+  **Pessimistic Lock Mechanism** over **Optimistic Lock Mechanism**
   is related to the scope of the case study.
 
 #### Statistics
